@@ -3,3 +3,17 @@
 http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/master.m3u8
 #EXTINF:-1,ANIMAL PLANET HD
 http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/295.m3u8
+#EXTINF:-1,CINEMAX HD 
+http://nettv-xcruiser.com:8000/L0Uid4u3Tz/Uz57MFgRiU/60166
+#EXTINF:-1,BOOMERANG HD 
+http://nettv-xcruiser.com:8000/L0Uid4u3Tz/Uz57MFgRiU/60173
+#EXTINF:-1,CARTOON NETWORK HD
+http://nettv-xcruiser.com:8000/L0Uid4u3Tz/Uz57MFgRiU/60181
+#EXTINF:-1,DISCOVERY KIDS HD 
+http://nettv-xcruiser.com:8000/L0Uid4u3Tz/Uz57MFgRiU/60202
+#EXTINF:-1, DISNEY CHANNEL HD
+http://nettv-xcruiser.com:8000/L0Uid4u3Tz/Uz57MFgRiU/60183
+#EXTINF:-1,DISNEY JR SD
+http://nettv-xcruiser.com:8000/L0Uid4u3Tz/Uz57MFgRiU/60184
+#EXTINF:-1, DISNEY XD SD
+http://nettv-xcruiser.com:8000/L0Uid4u3Tz/Uz57MFgRiU/60182
